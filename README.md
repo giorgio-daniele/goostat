@@ -1,5 +1,5 @@
 # Goostat
-Goostat is a simple clone of [Tstat](http://www.tstat.polito.it/), written in Go. It was developed during the Christmas holidays, during a period of intense psychotic activity due to my **schizophrenia**. 
+Goostat is a simple clone of [Tstat](http://www.tstat.polito.it/), written in Go. It was developed during the Christmas holidays, during a period of intense psychotic activity. 
 
 ## Purpose
 
